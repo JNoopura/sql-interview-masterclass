@@ -1,0 +1,38 @@
+## 📚 Topics Covered
+
+### Beginner
+- SELECT
+- WHERE
+- DISTINCT
+- ORDER BY
+- LIMIT
+- LIKE
+- IN
+- BETWEEN
+- CASE
+- Aggregate Functions
+
+### Intermediate
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN
+- GROUP BY
+- HAVING
+- UNION
+- Subqueries
+- EXISTS
+
+### Advanced
+- Common Table Expressions (CTEs)
+- Recursive CTEs
+- Window Functions
+- ROW_NUMBER()
+- RANK()
+- DENSE_RANK()
+- LEAD()
+- LAG()
+- FIRST_VALUE()
+- LAST_VALUE()
+- Pivot
+- Query Optimization
